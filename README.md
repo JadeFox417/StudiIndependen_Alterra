@@ -1,2 +1,6 @@
 # StudiIndependen_Alterra
-Alterra Academy Project
+Version Control and Branch Management (Git)
+
+Name: Juan Carlos
+
+Class: ReactJS (A)
